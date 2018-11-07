@@ -1,7 +1,7 @@
 # 数据类型
 我遇到的数据类型及其转换问题
 
-## 奇怪的问题
+## 问题列表
 1. 明明写入 session 的是 int64，取出来却提示 interface conversion: interface {} is float64, not int64。
 案例：
 ```go
